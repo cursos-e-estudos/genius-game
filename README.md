@@ -1,7 +1,7 @@
-# Template web
-template para usar nos estudos de web front-end.
+# Genius
+Jogo da memória programado na aula da profª Gabriela Pinheiro. Fiz algumas modificações.
 
-Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/template-de-web/)
+Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/genius-game/)
 <br>
 
 <p align="center">
