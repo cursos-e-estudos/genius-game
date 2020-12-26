@@ -104,7 +104,7 @@ let gameOver = () => {
     order = [];
     orderSelected = [];
 
-    playGame();
+    location.reload(); 
 }
 
 let playGame = () => {
