@@ -15,6 +15,8 @@ const yellow = document.querySelector(".yellow");
 const green = document.querySelector(".green");
 const red = document.querySelector(".red");
 
+const pontosDiv = document.querySelector(".points");
+
 
 //cria ordem aleatoria de cores
 let shuffleOrder = () => {
@@ -52,7 +54,8 @@ let checkOrder = () => {
     }
     if(orderSelected.length == orderGame.length)
     {
-        alert(`Pontuação: ${score} \n Você acertou!`);
+        //alert(`Pontuação: ${score} \n Você acertou!`);
+        pontosDiv.innerHTML = "Pontos: " + score;
         nextLevel();
     }
 }
