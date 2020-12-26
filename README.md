@@ -33,4 +33,4 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 
 <br>
 
-[<img align="left" width="25" url="https://github.com/cursos-e-estudos" src="https://avatars0.githubusercontent.com/u/75458214">](https://github.com/cursos-e-estudos) [@SouVitorGabriel](https://github.com/cursos-e-estudos) Outros estudos podem ser vistos aqui nessa organização.
+[<img align="left" width="25" url="https://github.com/cursos-e-estudos" src="https://avatars0.githubusercontent.com/u/75458214">](https://github.com/cursos-e-estudos) [Cursos e Estudos](https://github.com/cursos-e-estudos) Outros estudos podem ser vistos aqui nessa organização.
